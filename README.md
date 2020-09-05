@@ -1,2 +1,1 @@
-<a href="https://nbviewer.jupyter.org/github/maskinjuke/Yandex_Data_Analysis/blob/master/https://github.com/PavelShilovsky/Yandex-Praktikum-Projects/tree/master/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8><b>Общий анализ данных игровой индустрии</b>
-</br>
+
